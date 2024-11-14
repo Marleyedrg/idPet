@@ -58,14 +58,17 @@
             text-align: center;
         }
 
+        .grid{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 2rem;
+        }
+
         .product-grid {
             display: grid;
             grid-template-columns: repeat(5, 1fr); /* Define 5 colunas */
             gap: 15px;
-            max-width: 1200px;
-            width: 100%;
-            justify-content: center;
-            align-items: center;
         }
         
 
@@ -131,3 +134,5 @@
             text-align: center;
             margin-top: 2rem;
         }
+
+        
