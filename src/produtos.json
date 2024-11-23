@@ -1,0 +1,476 @@
+[
+    {
+        "name": "Premier",
+        "description": "Feita com matéria-prima premium",
+        "imgUrl": "",
+        "price": "R$220,99",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Bola Divertida",
+        "description": "Brinquedo interativo para cães",
+        "imgUrl": "",
+        "price": "R$30,00",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Snack de Frango",
+        "description": "Petisco sabor frango para recompensas",
+        "imgUrl": "",
+        "price": "R$19,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Golden Plus",
+        "description": "Rica em proteínas e sabor natural",
+        "imgUrl": "",
+        "price": "R$189,50",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Arranhador Compacto",
+        "description": "Ideal para gatos arranharem e brincarem",
+        "imgUrl": "",
+        "price": "R$120,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Petisco de Salmão",
+        "description": "Sabor irresistível para gatos",
+        "imgUrl": "",
+        "price": "R$25,50",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "NutriMax",
+        "description": "Equilíbrio perfeito para seu pet",
+        "imgUrl": "",
+        "price": "R$250,00",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Corda Resistente",
+        "description": "Diversão garantida para cães que adoram puxar",
+        "imgUrl": "",
+        "price": "R$45,90",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Snack Dental",
+        "description": "Ajuda na limpeza dos dentes dos cães",
+        "imgUrl": "",
+        "price": "R$29,99",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Whiskas Selection",
+        "description": "Uma explosão de sabor para gatos exigentes",
+        "imgUrl": "",
+        "price": "R$79,90",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Ratinho de Pelúcia",
+        "description": "Brinquedo divertido para gatos caçarem",
+        "imgUrl": "",
+        "price": "R$18,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Snack de Carne",
+        "description": "Petisco macio e saboroso para cães",
+        "imgUrl": "",
+        "price": "R$15,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "PuppyCare",
+        "description": "Nutrição completa para filhotes",
+        "imgUrl": "",
+        "price": "R$210,75",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Varinha com Plumas",
+        "description": "Brinquedo interativo para gatos brincarem",
+        "imgUrl": "",
+        "price": "R$25,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Biscoito de Aveia",
+        "description": "Opção saudável para recompensar seu cão",
+        "imgUrl": "",
+        "price": "R$22,00",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Royal Canin Maxi",
+        "description": "Especialmente formulada para raças grandes",
+        "imgUrl": "",
+        "price": "R$290,00",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Bola com Catnip",
+        "description": "Estimula os gatos com erva natural",
+        "imgUrl": "",
+        "price": "R$20,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Snack de Bacon",
+        "description": "Sabor irresistível para cães",
+        "imgUrl": "",
+        "price": "R$12,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "CatPremium",
+        "description": "Alimento premium com sabor irresistível",
+        "imgUrl": "",
+        "price": "R$95,60",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Disco de Borracha",
+        "description": "Para cães se exercitarem e se divertirem",
+        "imgUrl": "",
+        "price": "R$39,90",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Friskies Gourmet",
+        "description": "Sabor gourmet para gatos exigentes",
+        "imgUrl": "",
+        "price": "R$99,90",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Bola de Tênis",
+        "description": "Brinquedo para cães se divertirem ao máximo",
+        "imgUrl": "",
+        "price": "R$15,90",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco de Atum",
+        "description": "Petisco delicioso e nutritivo para gatos",
+        "imgUrl": "",
+        "price": "R$19,99",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Pedigree Original",
+        "description": "Saúde e vitalidade garantidas",
+        "imgUrl": "",
+        "price": "R$199,99",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Bola de Corda",
+        "description": "Diversão para cães que adoram brincar de puxar",
+        "imgUrl": "",
+        "price": "R$25,00",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco de Peixe",
+        "description": "Saboroso e saudável para gatos e cães",
+        "imgUrl": "",
+        "price": "R$18,50",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Natural Balance",
+        "description": "Ingredientes naturais e balanceados",
+        "imgUrl": "",
+        "price": "R$280,90",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Ratinho de Pelúcia com Som",
+        "description": "Estimula o instinto caçador do seu gato",
+        "imgUrl": "",
+        "price": "R$22,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Biscoito Dental",
+        "description": "Petisco que auxilia na higiene bucal dos cães",
+        "imgUrl": "",
+        "price": "R$27,50",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Whiskas Delights",
+        "description": "Petisco delicioso para gatos",
+        "imgUrl": "",
+        "price": "R$32,00",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Arranhador Vertical",
+        "description": "Perfeito para gatos arranharem e alongarem",
+        "imgUrl": "",
+        "price": "R$150,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Puppy Starter",
+        "description": "Alimento completo para filhotes",
+        "imgUrl": "",
+        "price": "R$179,90",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Brinquedo com Catnip",
+        "description": "Brinquedo que estimula gatos a brincarem por horas",
+        "imgUrl": "",
+        "price": "R$23,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Biscoito de Carne",
+        "description": "Petisco sabor carne para cães",
+        "imgUrl": "",
+        "price": "R$16,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Royal Canin Fit",
+        "description": "Ração balanceada para gatos adultos",
+        "imgUrl": "",
+        "price": "R$130,00",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Disco de Borracha",
+        "description": "Brinquedo durável e resistente para cães",
+        "imgUrl": "",
+        "price": "R$40,00",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco para Gato",
+        "description": "Delicioso petisco de carne para gatos",
+        "imgUrl": "",
+        "price": "R$14,50",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Salmão Dog Snack",
+        "description": "Petisco sabor salmão para cães",
+        "imgUrl": "",
+        "price": "R$35,00",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Friskies Party Mix",
+        "description": "Petisco sabor carne e queijo para gatos",
+        "imgUrl": "",
+        "price": "R$20,00",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Cat Tree Arranhador",
+        "description": "Arranhador multifuncional para gatos brincarem e descansarem",
+        "imgUrl": "",
+        "price": "R$250,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Pedigree Cães Adultos",
+        "description": "Nutrição completa para cães adultos",
+        "imgUrl": "",
+        "price": "R$160,00",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Brinquedo de Borracha para Cães",
+        "description": "Ideal para cães que adoram morder",
+        "imgUrl": "",
+        "price": "R$35,90",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco de Frango para Gatos",
+        "description": "Delicioso petisco para gatos de frango",
+        "imgUrl": "",
+        "price": "R$16,90",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Purina Pro Plan",
+        "description": "Ração premium com ingredientes selecionados",
+        "imgUrl": "",
+        "price": "R$230,00",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Mouse de Pelúcia",
+        "description": "Brinquedo macio para gatos brincarem",
+        "imgUrl": "",
+        "price": "R$19,90",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Petisco de Queijo",
+        "description": "Saboroso petisco para cães de todos os portes",
+        "imgUrl": "",
+        "price": "R$21,00",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Bento",
+        "description": "Ração completa e balanceada para gatos",
+        "imgUrl": "",
+        "price": "R$115,90",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Brinquedo Interativo para Cães",
+        "description": "Brinquedo que estimula o raciocínio do seu cachorro",
+        "imgUrl": "",
+        "price": "R$50,00",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco Natural para Cães",
+        "description": "Petisco 100% natural para cães",
+        "imgUrl": "",
+        "price": "R$27,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Whiskas Temptations",
+        "description": "Petisco crocante e delicioso para gatos",
+        "imgUrl": "",
+        "price": "R$28,00",
+        "type": "petisco",
+        "petType": "gato"
+    },
+    {
+        "name": "Cachorro Quente Pet",
+        "description": "Petisco sabor cachorro-quente para cães",
+        "imgUrl": "",
+        "price": "R$23,90",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Ração Royal Canin Indoor",
+        "description": "Ração específica para gatos de apartamento",
+        "imgUrl": "",
+        "price": "R$160,00",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Brinquedo de Pelúcia com Som",
+        "description": "Brinquedo para cães com som para maior diversão",
+        "imgUrl": "",
+        "price": "R$42,00",
+        "type": "brinquedo",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Petisco Sabor Carne de Cordeiro",
+        "description": "Petisco sabor carne de cordeiro para cães",
+        "imgUrl": "",
+        "price": "R$28,00",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Hill’s Science Diet",
+        "description": "Ração de alta qualidade para cães",
+        "imgUrl": "",
+        "price": "R$220,00",
+        "type": "ração",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Túnel para Gatos",
+        "description": "Brinquedo de túnel interativo para gatos",
+        "imgUrl": "",
+        "price": "R$35,00",
+        "type": "brinquedo",
+        "petType": "gato"
+    },
+    {
+        "name": "Petisco de Peixe Seco",
+        "description": "Petisco de peixe seco para cães",
+        "imgUrl": "",
+        "price": "R$22,00",
+        "type": "petisco",
+        "petType": "cachorro"
+    },
+    {
+        "name": "Friskies Patê",
+        "description": "Patê saboroso para gatos",
+        "imgUrl": "",
+        "price": "R$10,00",
+        "type": "ração",
+        "petType": "gato"
+    },
+    {
+        "name": "Brinquedo para Gatos com Catnip",
+        "description": "Brinquedo recheado com catnip para gatos brincarem",
+        "imgUrl": "",
+        "price": "R$18,50",
+        "type": "brinquedo",
+        "petType": "gato"
+    }
+
+]
+ 
