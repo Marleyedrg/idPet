@@ -1,5 +1,3 @@
-
-
 const productCard = (name, description,price = 'free', productImage, type = 'outros', petType = "cachorro") => {
     let grid = document.querySelector(".grid");
     grid = grid.querySelector(".productGrid");
@@ -18,14 +16,15 @@ const productCard = (name, description,price = 'free', productImage, type = 'out
         <h3>${name}</h3>
         <p>${description}</p>
         <h3>${price}</h3>
-        <button id="${productID}" class="buyItem">Comprar</button>
+        <button id="${productID}" class="buyItem">Adicionar ao carrinho</button>
     `
     grid.appendChild(productCard);
     
 }
 
 // Função para carregar o arquivo JSON e armazenar no objeto products
-export async function loadProducts() {
+async function loadProducts() {
+
     let products = null;
 
     const response = await fetch('src/produtos.json');  // Faz a requisição para o JSON
@@ -40,8 +39,18 @@ export async function loadProducts() {
 
     for (let button of buttons) {
       button.addEventListener("click", (event) => {
-          console.log(document.getElementById(event.target.id));
+        let productCard = document.getElementById(event.target.id);
+
+        let product = {
+          name: productCard.querySelector('h3').textContent,
+          price: productCard.querySelectorAll('h3')[1].textContent, 
+          imageUrl: productCard.querySelector('img').src
+      };
+
+      createProductCart(product.name, product.price, product.imageUrl);
+
       });
+
     }
 
     document.getElementById('productTypeFilter').addEventListener('change', function () {
@@ -56,12 +65,27 @@ export async function loadProducts() {
                   product.style.display = 'none'; 
                   product.classList.add('hidden'); 
               }
-      });      
+      });       
   });
-
 }
 
+
 loadProducts();
+
+const cartButton = document.getElementById('cartButton');
+const cartContainer = document.querySelector('.cart-container');
+
+// Inicialmente, esconde o contêiner do carrinho
+cartContainer.style.display = 'none';
+
+// Evento de clique no botão
+cartButton.addEventListener('click', () => {
+    // Muda o display do contêiner do carrinho para flex
+    cartContainer.style.display = 'flex';
+});
+
+
+
 
 
 

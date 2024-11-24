@@ -1,0 +1,30 @@
+    #cartButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #7c817c;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    z-index: 8888;
+  }
+  
+  #cartButton:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+  }
+  
+  #cartButton:active {
+    transform: scale(0.9);
+    background-color: #3e8e41;
+  }
+
+
+  
+  

@@ -4,12 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>idPet - Seu Pet Shop de Confiança</title>
-    <link rel="stylesheet" href="style.css">
+ 
+    <link rel="stylesheet" href="./styles/page.css">
+    <link rel="stylesheet" href="./styles/cart.css">
+    <link rel="stylesheet" href="./styles/filter.css">
+    <link rel="stylesheet" href="./styles/products.css">
+    <link rel="stylesheet" href="./styles/btnBuyitem.css">
+    <link rel="stylesheet" href="./styles/contact_aboutus.css">
+    <link rel="stylesheet" href="./styles/footer.css">
+    <link rel="stylesheet" href="./styles/cartPage.css">
     
-    <script type="module" src="script.js" defer></script>
+    <script src="./script.js" defer></script>
+
+    <script src="./buyAnimation.js " defer></script>
+
+    <script src="./cartPage.js" defer></script>
 
 </head>
 <body>
+
+    <button id="cartButton">
+        🛒
+    </button>
+
     <nav class="navbar">
         <div>
             <img src="src/logo1.ico" alt="logo_idpet" class="logo-navbar">
@@ -94,5 +111,17 @@
         <p>Desenvolvido com ❤️ para os pets!</p>
     </footer>
 
+    <div class="cart-container hidden">
+        <h1 class="cart-title">Seu Carrinho</h1>
+        
+        <div class="cart-items">
+        </div>
+
+        <div class="cart-summary">
+            <p>Total: <span id="total-price">R$ 50,00</span></p>
+            <a href="./finalizar.html"<button class="checkout-btn">Finalizar Compra</button></a>
+        </div>
+    </div>
+    
 </body>
 </html>

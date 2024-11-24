@@ -1,0 +1,127 @@
+.cart-container {
+    display: none;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+    width: 100vw; /* Ocupa toda a largura da tela */
+    height: 100vh; /* Ocupa toda a altura da tela */
+    padding: 20px;
+    position: fixed; /* Fixa o contêiner na tela */
+    top: 0; /* Coloca no topo da tela */
+    left: 0; /* Alinha à esquerda */
+    z-index: 9999; /* Garante que fique acima de outros elementos */
+    overflow-y: auto; /* Adiciona rolagem se o conteúdo for maior que a tela */
+}
+
+.cart-title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.cart-items {
+    margin:2rem 20rem;
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    transition: transform 0.3s ease;
+}
+
+.cart-item:hover {
+    transform: translateX(10px);
+}
+
+.cart-item img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.item-details {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.item-name {
+    font-size: 16px;
+    color: #333;
+}
+
+.item-price {
+    font-size: 14px;
+    color: #888;
+}
+
+.quantity {
+    display: flex;
+    align-items: center;
+}
+
+.quantity button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.quantity button:hover {
+    background-color: #0056b3;
+}
+
+.quantity input {
+    width: 40px;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+.remove-btn {
+    background-color: #ff3b30;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.remove-btn:hover {
+    background-color: #e0291b;
+}
+
+.cart-summary {
+    text-align: center;
+}
+
+.cart-summary p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.checkout-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 50%;
+    transition: background-color 0.3s ease;
+}
+
+.checkout-btn:hover {
+    background-color: #218838;
+}

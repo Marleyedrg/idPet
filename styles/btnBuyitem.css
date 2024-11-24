@@ -1,0 +1,58 @@
+.buyItem {
+    position: relative; 
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buyItem:active {
+    transform: scale(0.9) rotate(-3deg);
+    background-color: #45a049;
+    box-shadow: 0 5px #666;
+  }
+  
+  .buyItem:focus {
+    outline: none;
+    animation: wiggle 0.3s ease forwards;
+  }
+  
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(-5deg); }
+    50% { transform: rotate(5deg); }
+    75% { transform: rotate(-3deg); }
+  }
+
+  
+  .buyItem:active {
+    background-color: #3e8e41;
+  }
+  
+  .emoji {
+    position: absolute;
+    font-size: 24px;
+    opacity: 0;
+    animation: floatEmoji 1s ease-out forwards;
+    z-index: 99999;
+  }
+  
+  /* Animação do emoji */
+  @keyframes floatEmoji {
+    0% {
+      transform: scale(0) translateY(0);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.2) translateY(-20px);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(0.8) translateY(-50px);
+      opacity: 0;
+    }
+}
