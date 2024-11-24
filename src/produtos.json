@@ -2,7 +2,7 @@
     {
         "name": "Premier",
         "description": "Feita com matéria-prima premium",
-        "imgUrl": "",
+        "imgUrl": "https://www.petlove.com.br/images/products/266092/product/Ra%C3%A7%C3%A3o_Premier_Pet_Formula_C%C3%A3es_Adultos_Ra%C3%A7as_Pequenas_-_20_Kg_3108224-3_1.jpg?1674080596",
         "price": "R$220,99",
         "type": "ração",
         "petType": "cachorro"
@@ -10,7 +10,7 @@
     {
         "name": "Bola Divertida",
         "description": "Brinquedo interativo para cães",
-        "imgUrl": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/813JvdlSaLL._AC_UF894,1000_QL80_.jpg",
         "price": "R$30,00",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -18,7 +18,7 @@
     {
         "name": "Snack de Frango",
         "description": "Petisco sabor frango para recompensas",
-        "imgUrl": "",
+        "imgUrl": "https://static.petnautasloja.com.br/public/nunesagropecuaria/imagens/produtos/pet-treats-mordidinhas-de-frango-pouch-100g-639a0bf91c5fe.jpg",
         "price": "R$19,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -26,7 +26,7 @@
     {
         "name": "Golden Plus",
         "description": "Rica em proteínas e sabor natural",
-        "imgUrl": "",
+        "imgUrl": "https://cdn.awsli.com.br/203/203612/produto/127470530/70cc84db71.jpg",
         "price": "R$189,50",
         "type": "ração",
         "petType": "gato"
@@ -34,7 +34,7 @@
     {
         "name": "Arranhador Compacto",
         "description": "Ideal para gatos arranharem e brincarem",
-        "imgUrl": "",
+        "imgUrl": "https://a-static.mlcdn.com.br/186x140/brinquedo-arranhador-compacto-para-gatos-com-pelucia-e-sisal-atmx/olistplus/o2e72109o9qfbg0d/7fe5f37ff21c8f661b558d0e3ebd81f6.jpeg",
         "price": "R$120,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -42,7 +42,7 @@
     {
         "name": "Petisco de Salmão",
         "description": "Sabor irresistível para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://polipet.fbitsstatic.net/img/p/petisco-golden-cookie-cachorros-filhotes-salmao-e-quinoa-350gr-96674/290677.jpg?w=430&h=430&v=no-value",
         "price": "R$25,50",
         "type": "petisco",
         "petType": "gato"
@@ -50,7 +50,7 @@
     {
         "name": "NutriMax",
         "description": "Equilíbrio perfeito para seu pet",
-        "imgUrl": "",
+        "imgUrl": "https://nutrimax.ind.br/administrador/uploads/fotos/0ydSJBM5dqgrampeso-nutrimax-ind-ra%C3%A7ao-verde.png",
         "price": "R$250,00",
         "type": "ração",
         "petType": "cachorro"
@@ -58,7 +58,7 @@
     {
         "name": "Corda Resistente",
         "description": "Diversão garantida para cães que adoram puxar",
-        "imgUrl": "",
+        "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_876987-MLB47232235397_082021-O.webp",
         "price": "R$45,90",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -66,7 +66,7 @@
     {
         "name": "Snack Dental",
         "description": "Ajuda na limpeza dos dentes dos cães",
-        "imgUrl": "",
+        "imgUrl": "https://www.petlove.com.br/images/products/209356/product/Petisco_Nestl%C3%A9_Purina_Doguitos_Bifinho_de_Carne_para_C%C3%A3es_31267420-1_1.jpg?1627670983",
         "price": "R$29,99",
         "type": "petisco",
         "petType": "cachorro"
@@ -74,7 +74,7 @@
     {
         "name": "Whiskas Selection",
         "description": "Uma explosão de sabor para gatos exigentes",
-        "imgUrl": "",
+        "imgUrl": "https://down-br.img.susercontent.com/file/9493ff76af15d089e06350a100bbf19b",
         "price": "R$79,90",
         "type": "ração",
         "petType": "gato"
@@ -82,7 +82,7 @@
     {
         "name": "Ratinho de Pelúcia",
         "description": "Brinquedo divertido para gatos caçarem",
-        "imgUrl": "",
+        "imgUrl": "https://jolitex.com/cdn/shop/products/P_H11068_005_148.jpg?v=1684191439",
         "price": "R$18,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -90,7 +90,7 @@
     {
         "name": "Snack de Carne",
         "description": "Petisco macio e saboroso para cães",
-        "imgUrl": "",
+        "imgUrl": "https://petbox.vteximg.com.br/arquivos/ids/161908-1000-1000/f3f2636397a69131138d00dae3830ba11321dafe.jpg?v=637984143839900000",
         "price": "R$15,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -98,7 +98,7 @@
     {
         "name": "PuppyCare",
         "description": "Nutrição completa para filhotes",
-        "imgUrl": "",
+        "imgUrl": "https://www.petlove.com.br/images/products/251812/product/Ra%C3%A7%C3%A3o_F%C3%B3rmula_Natural_Pr%C3%B3_Super_Premium_Frango_e_Arroz_Integral_para_C%C3%A3es_Filhotes_Ra%C3%A7as_M%C3%A9dias_e_Grandes_2773308_%284%29.jpg?1642676740",
         "price": "R$210,75",
         "type": "ração",
         "petType": "cachorro"
@@ -106,7 +106,7 @@
     {
         "name": "Varinha com Plumas",
         "description": "Brinquedo interativo para gatos brincarem",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uUsxUx4QuSg6dQw7849-ZKETQX9hAFuhHg&s",
         "price": "R$25,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -114,7 +114,7 @@
     {
         "name": "Biscoito de Aveia",
         "description": "Opção saudável para recompensar seu cão",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmEmapSEN9L93RgHCrRv9fq0TNM3wfQ49bA&s",
         "price": "R$22,00",
         "type": "petisco",
         "petType": "cachorro"
@@ -122,7 +122,7 @@
     {
         "name": "Royal Canin Maxi",
         "description": "Especialmente formulada para raças grandes",
-        "imgUrl": "",
+        "imgUrl": "https://cobasi.vteximg.com.br/arquivos/ids/282999/Racao-Royal-Canin-Caes-Maxi-Adulto.jpg?v=638126959440270000",
         "price": "R$290,00",
         "type": "ração",
         "petType": "cachorro"
@@ -130,7 +130,7 @@
     {
         "name": "Bola com Catnip",
         "description": "Estimula os gatos com erva natural",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTclCnzr6XixNN8gr63GnqviEcutfI-mDxg&s",
         "price": "R$20,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -138,7 +138,7 @@
     {
         "name": "Snack de Bacon",
         "description": "Sabor irresistível para cães",
-        "imgUrl": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/71Glb77vr1L._AC_UF1000,1000_QL80_.jpg",
         "price": "R$12,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -146,7 +146,7 @@
     {
         "name": "CatPremium",
         "description": "Alimento premium com sabor irresistível",
-        "imgUrl": "",
+        "imgUrl": "data:image/jpeg;base64,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",
         "price": "R$95,60",
         "type": "ração",
         "petType": "gato"
@@ -154,7 +154,7 @@
     {
         "name": "Disco de Borracha",
         "description": "Para cães se exercitarem e se divertirem",
-        "imgUrl": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/81++8GwN-GL._AC_UF1000,1000_QL80_.jpg",
         "price": "R$39,90",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -162,7 +162,7 @@
     {
         "name": "Friskies Gourmet",
         "description": "Sabor gourmet para gatos exigentes",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbGRccs8YPfVUGKVL70JHi9VlfT8ppaHHyg&s",
         "price": "R$99,90",
         "type": "ração",
         "petType": "gato"
@@ -170,7 +170,7 @@
     {
         "name": "Bola de Tênis",
         "description": "Brinquedo para cães se divertirem ao máximo",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWieeYwRcGsWr4e1CkPc8GSpf3VF9wGSOpA&s",
         "price": "R$15,90",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -178,7 +178,7 @@
     {
         "name": "Petisco de Atum",
         "description": "Petisco delicioso e nutritivo para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://static.petnautasloja.com.br/public/nunesagropecuaria/imagens/produtos/racao-royal-canin-mini-light-para-caes-adultos-2-5kg-6801.jpg",
         "price": "R$19,99",
         "type": "petisco",
         "petType": "gato"
@@ -186,7 +186,7 @@
     {
         "name": "Pedigree Original",
         "description": "Saúde e vitalidade garantidas",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56Jw5wCGq1pYOCuXYYRz7pDv0R9wNDMbepg&s",
         "price": "R$199,99",
         "type": "ração",
         "petType": "cachorro"
@@ -194,7 +194,7 @@
     {
         "name": "Bola de Corda",
         "description": "Diversão para cães que adoram brincar de puxar",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHA6u7JzUnV_nxyuQPklDlzGq-hjY4HRShQ&s",
         "price": "R$25,00",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -202,7 +202,7 @@
     {
         "name": "Petisco de Peixe",
         "description": "Saboroso e saudável para gatos e cães",
-        "imgUrl": "",
+        "imgUrl": "https://images.tcdn.com.br/img/img_prod/686927/petisco_desidratado_lecker_peixinho_lambari_para_caes_969_1_99078f63209c05d7cb1103269fdf1fcf.jpeg",
         "price": "R$18,50",
         "type": "petisco",
         "petType": "cachorro"
@@ -210,7 +210,7 @@
     {
         "name": "Natural Balance",
         "description": "Ingredientes naturais e balanceados",
-        "imgUrl": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/71hWaDt4ulL._AC_SL1500_.jpg",
         "price": "R$280,90",
         "type": "ração",
         "petType": "cachorro"
@@ -218,7 +218,7 @@
     {
         "name": "Ratinho de Pelúcia com Som",
         "description": "Estimula o instinto caçador do seu gato",
-        "imgUrl": "",
+        "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/brinquedo-pelucia-ratinho-som-luz-se-move-repete-vozes-falas-cinza-toyng/encantopresentes/46474cz/6fe2283c7c6eecd7ab9102feb32af24f.jpeg",
         "price": "R$22,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -226,7 +226,7 @@
     {
         "name": "Biscoito Dental",
         "description": "Petisco que auxilia na higiene bucal dos cães",
-        "imgUrl": "",
+        "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/biscoito-origens-dental-tamanho-pequeno-75g-4-unid-limpeza-dentes-caes-adimax/gatopretostore/10230990900219x4/228a67b1b3c4ccc27b2c56526e70bf1c.jpeg",
         "price": "R$27,50",
         "type": "petisco",
         "petType": "cachorro"
@@ -234,7 +234,7 @@
     {
         "name": "Whiskas Delights",
         "description": "Petisco delicioso para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQa-a5yzyzt7QQzB7oFbEnu0cj_ayHLxRfg&s",
         "price": "R$32,00",
         "type": "petisco",
         "petType": "gato"
@@ -242,7 +242,7 @@
     {
         "name": "Arranhador Vertical",
         "description": "Perfeito para gatos arranharem e alongarem",
-        "imgUrl": "",
+        "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_725119-MLB70261382726_072023-O.webp",
         "price": "R$150,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -250,7 +250,7 @@
     {
         "name": "Puppy Starter",
         "description": "Alimento completo para filhotes",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZfY_Y0xM4xK-WcYqIvt3UOIo90wxK3NFmQ&s",
         "price": "R$179,90",
         "type": "ração",
         "petType": "cachorro"
@@ -258,7 +258,7 @@
     {
         "name": "Brinquedo com Catnip",
         "description": "Brinquedo que estimula gatos a brincarem por horas",
-        "imgUrl": "",
+        "imgUrl": "https://images.tcdn.com.br/img/img_prod/1129461/brinquedo_banana_green_rush_com_catnip_369_1_69ed24d6806595965951780a72d821c6.jpg",
         "price": "R$23,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -266,7 +266,7 @@
     {
         "name": "Biscoito de Carne",
         "description": "Petisco sabor carne para cães",
-        "imgUrl": "",
+        "imgUrl": "https://tb1821.vteximg.com.br/arquivos/ids/245443-1000-1000/Sol-Biscoito-Salgado-Hit-Churrasco-80G.jpg?v=638650229865970000",
         "price": "R$16,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -274,23 +274,15 @@
     {
         "name": "Royal Canin Fit",
         "description": "Ração balanceada para gatos adultos",
-        "imgUrl": "",
+        "imgUrl": "https://cobasi.vteximg.com.br/arquivos/ids/994478/647918--1-.jpg?v=637921141863670000",
         "price": "R$130,00",
         "type": "ração",
         "petType": "gato"
     },
     {
-        "name": "Disco de Borracha",
-        "description": "Brinquedo durável e resistente para cães",
-        "imgUrl": "",
-        "price": "R$40,00",
-        "type": "brinquedo",
-        "petType": "cachorro"
-    },
-    {
         "name": "Petisco para Gato",
         "description": "Delicioso petisco de carne para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://d25qvdyh5ydvzo.cloudfront.net/65a426n37inbtygxjsodno4k7mj3",
         "price": "R$14,50",
         "type": "petisco",
         "petType": "gato"
@@ -298,7 +290,7 @@
     {
         "name": "Salmão Dog Snack",
         "description": "Petisco sabor salmão para cães",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTH-MNXMPYDwXCDHDKoISSAQKIK-FC-z0lXw&s",
         "price": "R$35,00",
         "type": "petisco",
         "petType": "cachorro"
@@ -306,7 +298,7 @@
     {
         "name": "Friskies Party Mix",
         "description": "Petisco sabor carne e queijo para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://cobasi.vteximg.com.br/arquivos/ids/185842/Petisco-Friskies-Frango-Figado-e-Peru.jpg?v=638133805334070000",
         "price": "R$20,00",
         "type": "petisco",
         "petType": "gato"
@@ -314,7 +306,7 @@
     {
         "name": "Cat Tree Arranhador",
         "description": "Arranhador multifuncional para gatos brincarem e descansarem",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucCHfoi5iy_Gzs1RFdRrjhVs70EJDhptZ-A&s",
         "price": "R$250,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -322,7 +314,7 @@
     {
         "name": "Pedigree Cães Adultos",
         "description": "Nutrição completa para cães adultos",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9XdhKSdMRm1OPBI8fnxe3HpH_ZQECJPAuQ&s",
         "price": "R$160,00",
         "type": "ração",
         "petType": "cachorro"
@@ -330,7 +322,7 @@
     {
         "name": "Brinquedo de Borracha para Cães",
         "description": "Ideal para cães que adoram morder",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMD7WBurfYeSndrR5kd-BlLcDj3encxhxL0w&s",
         "price": "R$35,90",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -338,7 +330,7 @@
     {
         "name": "Petisco de Frango para Gatos",
         "description": "Delicioso petisco para gatos de frango",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IjbYta2Kfdhx1BF0tXaVdVQu77ftbex_vw&s ",
         "price": "R$16,90",
         "type": "petisco",
         "petType": "gato"
@@ -346,15 +338,15 @@
     {
         "name": "Purina Pro Plan",
         "description": "Ração premium com ingredientes selecionados",
-        "imgUrl": "",
+        "imgUrl": "https://cobasi.vteximg.com.br/arquivos/ids/918132-368-368/Racao-Pro-Plan-Caes-Adultos-Racas-Medias_1.jpg?v=638122458982930000",
         "price": "R$230,00",
         "type": "ração",
         "petType": "cachorro"
     },
     {
-        "name": "Mouse de Pelúcia",
+        "name": "joaninha de pelucia",
         "description": "Brinquedo macio para gatos brincarem",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mwsWT6C-i8ctrO6yViPpzClKZ99qY2wjSw&s",
         "price": "R$19,90",
         "type": "brinquedo",
         "petType": "gato"
@@ -362,15 +354,15 @@
     {
         "name": "Petisco de Queijo",
         "description": "Saboroso petisco para cães de todos os portes",
-        "imgUrl": "",
+        "imgUrl": "https://www.petlove.com.br/images/products/203548/product/Petitos_Delicias_do_Chef_Sabor_P%C3%A3o_de_Queijo_para_C%C3%A3es_-_65_g.jpg?1627653175",
         "price": "R$21,00",
         "type": "petisco",
         "petType": "cachorro"
     },
     {
-        "name": "Bento",
+        "name": "Ração para gatos Origens",
         "description": "Ração completa e balanceada para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://acdn.mitiendanube.com/stores/002/111/130/products/buckel-agrocenter-pet-shop-em-bento-goncalves-racao-para-gatos-origens-sabor-salmao-castrado-racao-31-90a276821c408ff07416908256687842-1024-1024.png",
         "price": "R$115,90",
         "type": "ração",
         "petType": "gato"
@@ -378,7 +370,7 @@
     {
         "name": "Brinquedo Interativo para Cães",
         "description": "Brinquedo que estimula o raciocínio do seu cachorro",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJeT4nZEvGRXArTe8XJoj_b_X1wGZg9ObuaA&s",
         "price": "R$50,00",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -386,7 +378,7 @@
     {
         "name": "Petisco Natural para Cães",
         "description": "Petisco 100% natural para cães",
-        "imgUrl": "",
+        "imgUrl": "https://cdn.sistemawbuy.com.br/arquivos/1a8b7f1191c924ac6d417390c492ff23/produtos/6533d04a67661/bucho-mondongo-miudinho-dobradinha-desidratada-petisco-natural-ca-es-cachorro-100-natural-65848dadc0b86.jpg",
         "price": "R$27,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -394,15 +386,15 @@
     {
         "name": "Whiskas Temptations",
         "description": "Petisco crocante e delicioso para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://images.petz.com.br/fotos/1683815997026.jpg",
         "price": "R$28,00",
         "type": "petisco",
         "petType": "gato"
     },
     {
-        "name": "Cachorro Quente Pet",
+        "name": "Cachorro Quente, fantasia para cachorro",
         "description": "Petisco sabor cachorro-quente para cães",
-        "imgUrl": "",
+        "imgUrl": "https://images.tcdn.com.br/img/img_prod/460977/fantasia_pet_hot_dog_cachorro_quente_rubbies_co_17463_1_20201211172657.jpg",
         "price": "R$23,90",
         "type": "petisco",
         "petType": "cachorro"
@@ -410,7 +402,7 @@
     {
         "name": "Ração Royal Canin Indoor",
         "description": "Ração específica para gatos de apartamento",
-        "imgUrl": "",
+        "imgUrl": "https://cobasi.vteximg.com.br/arquivos/ids/1001781/316148--1-.jpg?v=638122601298200000",
         "price": "R$160,00",
         "type": "ração",
         "petType": "gato"
@@ -418,7 +410,7 @@
     {
         "name": "Brinquedo de Pelúcia com Som",
         "description": "Brinquedo para cães com som para maior diversão",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8V_iu-TPL1eB3YOeYvtPsut-UffuaeRHoQ&s",
         "price": "R$42,00",
         "type": "brinquedo",
         "petType": "cachorro"
@@ -426,7 +418,7 @@
     {
         "name": "Petisco Sabor Carne de Cordeiro",
         "description": "Petisco sabor carne de cordeiro para cães",
-        "imgUrl": "",
+        "imgUrl": "https://cdn.awsli.com.br/600x700/1999/1999267/produto/222392194/carne-ibph1ure0l.png",
         "price": "R$28,00",
         "type": "petisco",
         "petType": "cachorro"
@@ -434,7 +426,7 @@
     {
         "name": "Hill’s Science Diet",
         "description": "Ração de alta qualidade para cães",
-        "imgUrl": "",
+        "imgUrl": "https://www.petlove.com.br/images/products/243970/product/Ra%C3%A7%C3%A3o_Seca_Hill's_Science_Diet_Peda%C3%A7os_Pequenos_para_C%C3%A3es_Adultos_2558930.jpg?1629139529",
         "price": "R$220,00",
         "type": "ração",
         "petType": "cachorro"
@@ -442,7 +434,7 @@
     {
         "name": "Túnel para Gatos",
         "description": "Brinquedo de túnel interativo para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZNKK2ibxReB_NAPnZUXldzVtlT-JoLQuew&s",
         "price": "R$35,00",
         "type": "brinquedo",
         "petType": "gato"
@@ -450,7 +442,7 @@
     {
         "name": "Petisco de Peixe Seco",
         "description": "Petisco de peixe seco para cães",
-        "imgUrl": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/61QMiitkgGL._AC_UF1000,1000_QL80_.jpg",
         "price": "R$22,00",
         "type": "petisco",
         "petType": "cachorro"
@@ -458,15 +450,15 @@
     {
         "name": "Friskies Patê",
         "description": "Patê saboroso para gatos",
-        "imgUrl": "",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS201dAYcNWIlK69FPnmMVTn9y_3ThdodkHcw&s",
         "price": "R$10,00",
         "type": "ração",
         "petType": "gato"
     },
     {
-        "name": "Brinquedo para Gatos com Catnip",
+        "name": "Brinquedo de Abacate para Gatos com Catnip",
         "description": "Brinquedo recheado com catnip para gatos brincarem",
-        "imgUrl": "",
+        "imgUrl": "https://cdn.awsli.com.br/806/806328/produto/257544244df49039cd6.jpg",
         "price": "R$18,50",
         "type": "brinquedo",
         "petType": "gato"
