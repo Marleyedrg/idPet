@@ -33,9 +33,23 @@
         </div>
 
         <ul>
-            <li><a href="#about-us">Sobre Nós</a></li>
-            <li><a href="#contact">Contato</a></li>
+            <li onclick="goToAboutUs()"><a href="#about-us">Sobre Nós</a></li>
+            <li onclick="goToContact()"><a href="#contact">Contato</a></li>
         </ul>
+
+        <script>
+        function goToAboutUs() {
+            const elements = document.querySelectorAll('.about-us'); // Seleciona todos os elementos com a classe .about-us
+            elements.forEach(element => {
+                element.style.display = 'flex'; // Remove display: none e define display como block
+        })};
+        function goToContact() {
+            const elements = document.querySelectorAll('.contact'); // Seleciona todos os elementos com a classe .about-us
+            elements.forEach(element => {
+                element.style.display = 'block'; // Remove display: none e define display como block
+        });
+}
+        </script>
     </nav>
 
     <!-- Conteúdo principal -->
@@ -63,13 +77,13 @@
         <div class="productGrid"></div>
     </div>
 
-    <section class="about-us" id="about-us">
+    <section class="about-us hidden" id="about-us">
         <h1>Sobre Nós</h1>
         <p>Somos apaixonados por animais e nos dedicamos a oferecer o melhor para seus pets! Nossa missão é garantir que seu amigo peludo tenha tudo o que precisa para ser feliz e saudável.</p>
         <img src="src/apaixonados.png" alt="banner-apaixonados-por-bixos">
     </section>
 
-    <section class="contact" id="contact">
+    <section class="contact hidden" id="contact">
         <h1 class="contact-title">Entre em Contato</h1>
         <p class="contact-description">Tem alguma dúvida ou deseja mais informações? Entre em contato conosco e nossa equipe estará pronta para ajudar!</p>
 
