@@ -5,6 +5,7 @@ window.onload = function() {
       button.addEventListener('click', () => {
         const emoji = document.createElement('span');
         const randomNumber = Math.floor(Math.random() * 2) + 1;
+        updateTotal();
 
         switch (randomNumber) {
           case 1:
